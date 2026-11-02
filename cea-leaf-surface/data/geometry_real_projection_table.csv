@@ -1,7 +1,0 @@
-leaf_id,method,IoU,boundary_distance_px,evaluation_view,pixel_definition,evaluation_status,source
-p00,symmetric24,0.8544292010677261,8.472452163696289,01,native 480x480 crop pixels,known_pilot_only,real_p00_metrics
-p00,POTS33,0.8711433756805808,7.960005283355713,01,native 480x480 crop pixels,known_pilot_only,real_p00_metrics
-p01,POTS33,0.9146916800799245,5.379687309265137,01,native 480x480 crop pixels,new_plant_frozen_fit_camera01,real_p01_p02_metrics
-p01,symmetric24,0.9114029255319149,5.473492622375488,01,native 480x480 crop pixels,new_plant_frozen_fit_camera01,real_p01_p02_metrics
-p02,POTS33,0.9063282336578581,4.285781383514404,01,native 480x480 crop pixels,new_plant_frozen_fit_camera01,real_p01_p02_metrics
-p02,symmetric24,0.90602627371933,4.287745952606201,01,native 480x480 crop pixels,new_plant_frozen_fit_camera01,real_p01_p02_metrics
