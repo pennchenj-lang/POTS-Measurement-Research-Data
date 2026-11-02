@@ -1,0 +1,5 @@
+target,input_regime,evaluation_region,distance_unit,BT,BT_Q,BT_W,BT_Q_W
+curved,complementary,fixed common-gap reference domain,synthetic_world_unit,0.10888883294417881,0.04391798424444504,0.04071619522326884,0.018731023831350037
+curved,common_gap,fixed common-gap reference domain,synthetic_world_unit,0.10888883294417881,0.05148499592544817,0.041025015865694556,0.02572691843823232
+twisted,complementary,fixed common-gap reference domain,synthetic_world_unit,0.08299197638644903,0.03839177412894351,0.02480463694847584,0.015084813125155867
+twisted,common_gap,fixed common-gap reference domain,synthetic_world_unit,0.08299197638644903,0.04197426906525334,0.025187213651592606,0.01838837589896209

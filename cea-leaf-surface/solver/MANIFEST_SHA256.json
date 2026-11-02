@@ -1,0 +1,22 @@
+{
+  "schema": "pots.algorithm-package-manifest.v1",
+  "files_sha256": {
+    "data/curved_common_gap.json": "c60523cce8f924bd172c0cd13d3023c417c8922cb97eaf47ab100dd02324f9dd",
+    "data/expected_controls.npz": "87c6c25781a3a127bdabcbb65fd7bb2b214fe5036af065f3b8f899a3267f342d",
+    "data/expected_metrics.json": "092fc408fb57391e00015d980cb1674f9333070f891d62e8c0d8b67e35290f77",
+    "pots_gs/__init__.py": "ec4aa2ae16e03cb8a3f814fe043db1126d1e18796a6bb6892c57f0769452c3b7",
+    "pots_gs/geometry.py": "34554d11366bc194becd1722f0a5945ca8b0719e3b21e49eeecc78756762bb49",
+    "pots_gs/multiview_scaffold.py": "00c22acaba511dbc66802f2a40408c7db1e1e056a6568511bcae5e1c9bd2cfd1",
+    "pots_gs/subdivision.py": "1a9ac47338b99b091557592cbfd71603c04fa14f6b75c986f41e5e6d57bdf7ec",
+    "pots_gs/symmetric_ribbon.py": "83f91f41122176c8b62ec6953ce37fef9e8a1c674534f1ebdef55d9628d8d4fe",
+    "pots_gs/triangulation.py": "a6d0cb50a6e2660da24a9c29339dc2dc730b6b6ca8e36a7e19746e9534e92ae2",
+    "README.md": "3fcfd76c9f768911830b41ee1ad421cac1084d46a248b7f1949bb77eb110fb95",
+    "requirements.txt": "6e69ffe6f7841e5d8aea3f05a4bf77c60055d3b0717fcccbb31fd19647e07b7b",
+    "run_example.py": "23f5381957d1ef2e23941ca1f742915fdcf8ce93f38d5913fc4807c9ac2d92b2",
+    "verify_results.py": "b128ae2a94b3a7352f3ec9ca1065ecb45b4d2e8113d1cb994943c71d0777fd94"
+  },
+  "data_type": "synthetic",
+  "only_example": "curved_common_gap",
+  "expected_controls_are_previous_predictions": true,
+  "reference_truth_included": false
+}

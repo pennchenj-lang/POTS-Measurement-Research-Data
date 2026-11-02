@@ -34,3 +34,7 @@ The release supports examination of the supplied numerical results. Image-level 
 KOMATSUNA multiview dataset: https://limu.ait.kyushu-u.ac.jp/~agri/komatsuna/
 Uchiyama et al., An Easy-to-Setup 3D Phenotyping Platform for KOMATSUNA Dataset, ICCVW (2017), 2038–2045. https://doi.org/10.1109/ICCVW.2017.239
 The RGB-D subset depicts different plants and must not be substituted as matched physical reference data. See LICENCE_AND_ACCESS.md for the release boundary.
+
+## Additional study materials
+
+[Same-leaf surface code and reviewer data](cea-leaf-surface/README.md)
